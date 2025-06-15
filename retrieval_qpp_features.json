@@ -1,0 +1,1752 @@
+{
+  "301": {
+    "mean_score": 5.064629936,
+    "stdev_score": 0.5250060949185252,
+    "max_score": 6.844,
+    "min_score": 4.4171,
+    "score_diff": 2.4269000000000007
+  },
+  "302": {
+    "mean_score": 2.779541892,
+    "stdev_score": 1.2671773823038315,
+    "max_score": 14.5042,
+    "min_score": 2.191572,
+    "score_diff": 12.312628
+  },
+  "303": {
+    "mean_score": 3.679704661,
+    "stdev_score": 2.7358091173852332,
+    "max_score": 15.5664,
+    "min_score": 2.02548,
+    "score_diff": 13.54092
+  },
+  "304": {
+    "mean_score": 8.31148524,
+    "stdev_score": 1.4001991268442298,
+    "max_score": 14.0182,
+    "min_score": 6.8576,
+    "score_diff": 7.1606000000000005
+  },
+  "305": {
+    "mean_score": 4.115147425,
+    "stdev_score": 0.43974327434778865,
+    "max_score": 6.0265,
+    "min_score": 3.6826,
+    "score_diff": 2.3439000000000005
+  },
+  "306": {
+    "mean_score": 4.923173712,
+    "stdev_score": 0.6442300056828439,
+    "max_score": 8.354,
+    "min_score": 4.2362,
+    "score_diff": 4.117799999999999
+  },
+  "307": {
+    "mean_score": 4.6205555,
+    "stdev_score": 1.4071103366716935,
+    "max_score": 8.0785,
+    "min_score": 2.7153,
+    "score_diff": 5.3632
+  },
+  "308": {
+    "mean_score": 3.8777481032531824,
+    "stdev_score": 1.375200932004058,
+    "max_score": 12.2239,
+    "min_score": 0.396699,
+    "score_diff": 11.827201
+  },
+  "309": {
+    "mean_score": 3.846215099,
+    "stdev_score": 0.7489381225718414,
+    "max_score": 7.3267,
+    "min_score": 3.197,
+    "score_diff": 4.1297
+  },
+  "310": {
+    "mean_score": 5.124633381,
+    "stdev_score": 0.932477904373058,
+    "max_score": 14.1012,
+    "min_score": 4.303393,
+    "score_diff": 9.797807
+  },
+  "311": {
+    "mean_score": 3.442854315,
+    "stdev_score": 1.3852053592933096,
+    "max_score": 7.6838,
+    "min_score": 1.616499,
+    "score_diff": 6.067301
+  },
+  "312": {
+    "mean_score": 4.919304476190476,
+    "stdev_score": 1.4075472600553638,
+    "max_score": 8.1696,
+    "min_score": 2.4805,
+    "score_diff": 5.689100000000001
+  },
+  "313": {
+    "mean_score": 4.210130894,
+    "stdev_score": 2.120281935511022,
+    "max_score": 20.468599,
+    "min_score": 2.861871,
+    "score_diff": 17.606728
+  },
+  "314": {
+    "mean_score": 4.001524372,
+    "stdev_score": 0.5131863026603319,
+    "max_score": 6.7017,
+    "min_score": 3.592296,
+    "score_diff": 3.1094039999999996
+  },
+  "315": {
+    "mean_score": 5.040125258,
+    "stdev_score": 0.7866766509931099,
+    "max_score": 9.7812,
+    "min_score": 3.826,
+    "score_diff": 5.9552
+  },
+  "316": {
+    "mean_score": 4.6625196,
+    "stdev_score": 1.6433934573346238,
+    "max_score": 7.6786,
+    "min_score": 0.625,
+    "score_diff": 7.0536
+  },
+  "317": {
+    "mean_score": 3.818604805,
+    "stdev_score": 0.7616745333452206,
+    "max_score": 10.8102,
+    "min_score": 3.067881,
+    "score_diff": 7.742319
+  },
+  "318": {
+    "mean_score": 3.918556286,
+    "stdev_score": 0.34577408389153347,
+    "max_score": 5.6085,
+    "min_score": 3.521998,
+    "score_diff": 2.0865020000000003
+  },
+  "319": {
+    "mean_score": 4.57631355,
+    "stdev_score": 0.4183818286771962,
+    "max_score": 6.0182,
+    "min_score": 4.0,
+    "score_diff": 2.0182
+  },
+  "320": {
+    "mean_score": 7.492237522,
+    "stdev_score": 2.4352837465407973,
+    "max_score": 20.275801,
+    "min_score": 4.935599,
+    "score_diff": 15.340202000000001
+  },
+  "321": {
+    "mean_score": 3.544057585,
+    "stdev_score": 0.5495039949369107,
+    "max_score": 5.793,
+    "min_score": 2.9997,
+    "score_diff": 2.7933000000000003
+  },
+  "322": {
+    "mean_score": 4.180559771,
+    "stdev_score": 0.40542809867569407,
+    "max_score": 6.7206,
+    "min_score": 3.761198,
+    "score_diff": 2.9594020000000003
+  },
+  "323": {
+    "mean_score": 3.986024596,
+    "stdev_score": 0.9274291850356893,
+    "max_score": 11.8535,
+    "min_score": 3.2484,
+    "score_diff": 8.6051
+  },
+  "324": {
+    "mean_score": 4.830702125,
+    "stdev_score": 0.9452081018692755,
+    "max_score": 8.6221,
+    "min_score": 3.7167,
+    "score_diff": 4.9054
+  },
+  "325": {
+    "mean_score": 3.637700338,
+    "stdev_score": 0.6252621768738157,
+    "max_score": 7.0686,
+    "min_score": 2.964091,
+    "score_diff": 4.104509
+  },
+  "326": {
+    "mean_score": 4.160747127,
+    "stdev_score": 0.93397311745685,
+    "max_score": 9.378,
+    "min_score": 3.319799,
+    "score_diff": 6.058201
+  },
+  "327": {
+    "mean_score": 3.228198626,
+    "stdev_score": 0.8140822508756316,
+    "max_score": 8.2478,
+    "min_score": 2.629199,
+    "score_diff": 5.618601
+  },
+  "328": {
+    "mean_score": 3.887530834,
+    "stdev_score": 1.092296046894983,
+    "max_score": 13.4399,
+    "min_score": 2.544589,
+    "score_diff": 10.895311
+  },
+  "329": {
+    "mean_score": 5.573615713,
+    "stdev_score": 0.49848145014277623,
+    "max_score": 9.5828,
+    "min_score": 5.030998,
+    "score_diff": 4.551802
+  },
+  "330": {
+    "mean_score": 7.01079437,
+    "stdev_score": 0.8578647739217522,
+    "max_score": 10.3643,
+    "min_score": 6.0358,
+    "score_diff": 4.3285
+  },
+  "331": {
+    "mean_score": 4.132023109,
+    "stdev_score": 0.366898036554401,
+    "max_score": 5.6122,
+    "min_score": 3.697198,
+    "score_diff": 1.9150019999999994
+  },
+  "332": {
+    "mean_score": 5.502439318,
+    "stdev_score": 1.1156827811180892,
+    "max_score": 9.3278,
+    "min_score": 4.4973,
+    "score_diff": 4.8305
+  },
+  "333": {
+    "mean_score": 5.403369048,
+    "stdev_score": 1.867534036973121,
+    "max_score": 15.4603,
+    "min_score": 3.779393,
+    "score_diff": 11.680907000000001
+  },
+  "334": {
+    "mean_score": 3.952798214,
+    "stdev_score": 0.4969142931217162,
+    "max_score": 10.9982,
+    "min_score": 3.5637,
+    "score_diff": 7.434500000000001
+  },
+  "335": {
+    "mean_score": 4.497097587,
+    "stdev_score": 0.7873770149859803,
+    "max_score": 9.9826,
+    "min_score": 3.7677,
+    "score_diff": 6.2149
+  },
+  "336": {
+    "mean_score": 4.37247544,
+    "stdev_score": 0.48622115905246527,
+    "max_score": 7.0668,
+    "min_score": 3.8333,
+    "score_diff": 3.2335
+  },
+  "337": {
+    "mean_score": 4.2389305661577605,
+    "stdev_score": 1.6074101662235734,
+    "max_score": 13.1857,
+    "min_score": 0.1717,
+    "score_diff": 13.014000000000001
+  },
+  "338": {
+    "mean_score": 2.963878801,
+    "stdev_score": 0.9638066340100047,
+    "max_score": 10.1286,
+    "min_score": 2.480594,
+    "score_diff": 7.6480060000000005
+  },
+  "339": {
+    "mean_score": 5.666475355,
+    "stdev_score": 1.0303362724245064,
+    "max_score": 12.5676,
+    "min_score": 4.847699,
+    "score_diff": 7.719901
+  },
+  "340": {
+    "mean_score": 5.00519141,
+    "stdev_score": 0.5179779367833424,
+    "max_score": 8.7407,
+    "min_score": 4.352895,
+    "score_diff": 4.387805
+  },
+  "341": {
+    "mean_score": 3.967658473,
+    "stdev_score": 0.40312209637549945,
+    "max_score": 5.2045,
+    "min_score": 3.4739,
+    "score_diff": 1.7306000000000004
+  },
+  "342": {
+    "mean_score": 3.970216057,
+    "stdev_score": 1.1471172142903938,
+    "max_score": 8.6319,
+    "min_score": 3.029893,
+    "score_diff": 5.602007
+  },
+  "343": {
+    "mean_score": 4.673092324,
+    "stdev_score": 0.2597339964497809,
+    "max_score": 5.531,
+    "min_score": 4.327498,
+    "score_diff": 1.2035019999999994
+  },
+  "344": {
+    "mean_score": 4.735185931,
+    "stdev_score": 0.5678813923334756,
+    "max_score": 7.6429,
+    "min_score": 4.108399,
+    "score_diff": 3.5345009999999997
+  },
+  "345": {
+    "mean_score": 4.970142331,
+    "stdev_score": 0.702663886275221,
+    "max_score": 8.685,
+    "min_score": 4.264999,
+    "score_diff": 4.420001
+  },
+  "346": {
+    "mean_score": 4.102155655,
+    "stdev_score": 0.3131165924555531,
+    "max_score": 5.1793,
+    "min_score": 3.682398,
+    "score_diff": 1.4969019999999995
+  },
+  "347": {
+    "mean_score": 4.79025091,
+    "stdev_score": 1.0790908435519577,
+    "max_score": 9.0595,
+    "min_score": 3.9096,
+    "score_diff": 5.1499
+  },
+  "348": {
+    "mean_score": 5.111133333333333,
+    "stdev_score": 1.3368922793803046,
+    "max_score": 7.5763,
+    "min_score": 3.8191,
+    "score_diff": 3.7571999999999997
+  },
+  "349": {
+    "mean_score": 3.6019597983425413,
+    "stdev_score": 1.1667355008934106,
+    "max_score": 7.0643,
+    "min_score": 0.1223,
+    "score_diff": 6.942
+  },
+  "350": {
+    "mean_score": 4.933759888,
+    "stdev_score": 0.5522014107910401,
+    "max_score": 8.459,
+    "min_score": 4.281199,
+    "score_diff": 4.177801
+  },
+  "351": {
+    "mean_score": 5.473675094,
+    "stdev_score": 0.906252482517961,
+    "max_score": 10.1472,
+    "min_score": 4.179594,
+    "score_diff": 5.967606
+  },
+  "352": {
+    "mean_score": 3.540560485,
+    "stdev_score": 0.6179434665395085,
+    "max_score": 8.9187,
+    "min_score": 3.119794,
+    "score_diff": 5.798905999999999
+  },
+  "353": {
+    "mean_score": 3.549840667,
+    "stdev_score": 1.0115751211584945,
+    "max_score": 9.9341,
+    "min_score": 2.921982,
+    "score_diff": 7.012118000000001
+  },
+  "354": {
+    "mean_score": 3.459808821,
+    "stdev_score": 0.43518695391712126,
+    "max_score": 5.419,
+    "min_score": 3.016585,
+    "score_diff": 2.4024149999999995
+  },
+  "355": {
+    "mean_score": 4.31150502,
+    "stdev_score": 0.7663328117867502,
+    "max_score": 11.3493,
+    "min_score": 3.655096,
+    "score_diff": 7.694203999999999
+  },
+  "356": {
+    "mean_score": 2.876491424,
+    "stdev_score": 1.1860131649796166,
+    "max_score": 17.101601,
+    "min_score": 2.522591,
+    "score_diff": 14.579009999999998
+  },
+  "357": {
+    "mean_score": 4.801983139,
+    "stdev_score": 0.6419679708065513,
+    "max_score": 7.7466,
+    "min_score": 4.1916,
+    "score_diff": 3.5549999999999997
+  },
+  "358": {
+    "mean_score": 5.358035106,
+    "stdev_score": 1.2607249386961763,
+    "max_score": 11.1284,
+    "min_score": 4.036697,
+    "score_diff": 7.091702999999999
+  },
+  "359": {
+    "mean_score": 4.255777149,
+    "stdev_score": 0.5516385377865474,
+    "max_score": 7.5375,
+    "min_score": 3.622593,
+    "score_diff": 3.9149069999999995
+  },
+  "360": {
+    "mean_score": 4.796828755,
+    "stdev_score": 0.5032269697271359,
+    "max_score": 6.819,
+    "min_score": 4.296396,
+    "score_diff": 2.5226040000000003
+  },
+  "361": {
+    "mean_score": 3.438085723,
+    "stdev_score": 0.9294501521786326,
+    "max_score": 11.1217,
+    "min_score": 2.925098,
+    "score_diff": 8.196602
+  },
+  "362": {
+    "mean_score": 4.065347458,
+    "stdev_score": 0.5826759158415903,
+    "max_score": 6.6486,
+    "min_score": 3.273098,
+    "score_diff": 3.375502
+  },
+  "363": {
+    "mean_score": 5.045233893,
+    "stdev_score": 0.7549488872881893,
+    "max_score": 9.1201,
+    "min_score": 4.1889,
+    "score_diff": 4.9312000000000005
+  },
+  "364": {
+    "mean_score": 4.915826113821138,
+    "stdev_score": 1.5397665474589248,
+    "max_score": 8.0246,
+    "min_score": 1.3268,
+    "score_diff": 6.697799999999999
+  },
+  "365": {
+    "mean_score": 3.77861411,
+    "stdev_score": 0.9244242287861969,
+    "max_score": 11.3423,
+    "min_score": 3.332887,
+    "score_diff": 8.009413
+  },
+  "366": {
+    "mean_score": 3.451282755,
+    "stdev_score": 0.9565191105133186,
+    "max_score": 8.2296,
+    "min_score": 2.897297,
+    "score_diff": 5.332303
+  },
+  "367": {
+    "mean_score": 4.299180795,
+    "stdev_score": 1.029149893460066,
+    "max_score": 6.8011,
+    "min_score": 0.2191,
+    "score_diff": 6.582
+  },
+  "368": {
+    "mean_score": 3.906009874,
+    "stdev_score": 1.1039064550008033,
+    "max_score": 10.5839,
+    "min_score": 3.003565,
+    "score_diff": 7.580335
+  },
+  "369": {
+    "mean_score": 5.4961410158730155,
+    "stdev_score": 2.972109738889849,
+    "max_score": 16.174299,
+    "min_score": 0.138,
+    "score_diff": 16.036299
+  },
+  "370": {
+    "mean_score": 5.311357522,
+    "stdev_score": 0.5289733076430269,
+    "max_score": 7.7181,
+    "min_score": 4.673099,
+    "score_diff": 3.045001
+  },
+  "371": {
+    "mean_score": 4.680826076,
+    "stdev_score": 0.48752587817683923,
+    "max_score": 7.8462,
+    "min_score": 4.103798,
+    "score_diff": 3.7424019999999993
+  },
+  "372": {
+    "mean_score": 4.84042411,
+    "stdev_score": 0.6587041806276063,
+    "max_score": 8.9567,
+    "min_score": 4.0334,
+    "score_diff": 4.923299999999999
+  },
+  "373": {
+    "mean_score": 4.558173996,
+    "stdev_score": 0.7913584859220939,
+    "max_score": 11.356,
+    "min_score": 3.974597,
+    "score_diff": 7.381403
+  },
+  "374": {
+    "mean_score": 6.606418501,
+    "stdev_score": 1.3175114516159794,
+    "max_score": 12.0667,
+    "min_score": 5.193797,
+    "score_diff": 6.872903000000001
+  },
+  "375": {
+    "mean_score": 4.006240787,
+    "stdev_score": 1.302803096083339,
+    "max_score": 8.6508,
+    "min_score": 2.7809,
+    "score_diff": 5.8699
+  },
+  "376": {
+    "mean_score": 3.087242416,
+    "stdev_score": 0.1709948424707088,
+    "max_score": 3.8349,
+    "min_score": 2.855399,
+    "score_diff": 0.9795010000000004
+  },
+  "377": {
+    "mean_score": 4.281750612,
+    "stdev_score": 1.0835042534501607,
+    "max_score": 11.0966,
+    "min_score": 3.428596,
+    "score_diff": 7.668004
+  },
+  "378": {
+    "mean_score": 4.292058252,
+    "stdev_score": 0.6327952763254718,
+    "max_score": 6.6652,
+    "min_score": 3.5062,
+    "score_diff": 3.1589999999999994
+  },
+  "379": {
+    "mean_score": 3.128904403,
+    "stdev_score": 0.35850195216737163,
+    "max_score": 4.9636,
+    "min_score": 2.745482,
+    "score_diff": 2.2181179999999996
+  },
+  "380": {
+    "mean_score": 5.363684204,
+    "stdev_score": 0.7844032821613012,
+    "max_score": 11.7717,
+    "min_score": 4.672298,
+    "score_diff": 7.0994019999999995
+  },
+  "381": {
+    "mean_score": 3.701648271,
+    "stdev_score": 0.48021917928891644,
+    "max_score": 6.6743,
+    "min_score": 3.238584,
+    "score_diff": 3.4357159999999998
+  },
+  "382": {
+    "mean_score": 5.269265415,
+    "stdev_score": 1.4655515177703942,
+    "max_score": 12.8683,
+    "min_score": 3.7881,
+    "score_diff": 9.0802
+  },
+  "383": {
+    "mean_score": 5.704706064,
+    "stdev_score": 1.1097980087525239,
+    "max_score": 10.5344,
+    "min_score": 4.5603,
+    "score_diff": 5.9741
+  },
+  "384": {
+    "mean_score": 5.272810956,
+    "stdev_score": 1.1823517231327407,
+    "max_score": 11.0595,
+    "min_score": 4.2065,
+    "score_diff": 6.853
+  },
+  "385": {
+    "mean_score": 4.928317427,
+    "stdev_score": 0.8055649787512383,
+    "max_score": 9.9887,
+    "min_score": 4.123099,
+    "score_diff": 5.865601
+  },
+  "386": {
+    "mean_score": 5.629896896,
+    "stdev_score": 0.9125309851935349,
+    "max_score": 10.0991,
+    "min_score": 4.705498,
+    "score_diff": 5.393602
+  },
+  "387": {
+    "mean_score": 6.534735994,
+    "stdev_score": 1.0675407723920531,
+    "max_score": 8.802,
+    "min_score": 4.700398,
+    "score_diff": 4.101602
+  },
+  "388": {
+    "mean_score": 4.59695152,
+    "stdev_score": 0.6046173219172007,
+    "max_score": 7.7519,
+    "min_score": 3.980899,
+    "score_diff": 3.771001
+  },
+  "389": {
+    "mean_score": 4.547789891,
+    "stdev_score": 0.44198958886862183,
+    "max_score": 7.0965,
+    "min_score": 4.080596,
+    "score_diff": 3.015904
+  },
+  "390": {
+    "mean_score": 3.474810866,
+    "stdev_score": 0.7935664655407138,
+    "max_score": 9.1628,
+    "min_score": 3.0495,
+    "score_diff": 6.113300000000001
+  },
+  "391": {
+    "mean_score": 6.044358545,
+    "stdev_score": 1.006258081346855,
+    "max_score": 10.2131,
+    "min_score": 5.0428,
+    "score_diff": 5.170300000000001
+  },
+  "392": {
+    "mean_score": 3.4664885013227513,
+    "stdev_score": 1.2086990600638483,
+    "max_score": 6.3776,
+    "min_score": 0.1099,
+    "score_diff": 6.2677000000000005
+  },
+  "393": {
+    "mean_score": 3.720267864,
+    "stdev_score": 0.860816000433163,
+    "max_score": 7.4102,
+    "min_score": 2.803,
+    "score_diff": 4.6072
+  },
+  "394": {
+    "mean_score": 3.430097209,
+    "stdev_score": 0.1255791173574157,
+    "max_score": 3.9154,
+    "min_score": 3.286095,
+    "score_diff": 0.629305
+  },
+  "395": {
+    "mean_score": 3.624572578,
+    "stdev_score": 0.4481565239154909,
+    "max_score": 4.6887,
+    "min_score": 2.965799,
+    "score_diff": 1.7229009999999998
+  },
+  "396": {
+    "mean_score": 4.149279448,
+    "stdev_score": 1.0106504108910597,
+    "max_score": 11.907,
+    "min_score": 3.401997,
+    "score_diff": 8.505003
+  },
+  "397": {
+    "mean_score": 3.610957443,
+    "stdev_score": 0.44899750296290475,
+    "max_score": 6.2844,
+    "min_score": 3.086499,
+    "score_diff": 3.197901
+  },
+  "398": {
+    "mean_score": 4.696244898,
+    "stdev_score": 0.9209039268728086,
+    "max_score": 9.8706,
+    "min_score": 3.801,
+    "score_diff": 6.069599999999999
+  },
+  "399": {
+    "mean_score": 4.242419769,
+    "stdev_score": 0.6930379145264802,
+    "max_score": 9.9212,
+    "min_score": 3.808297,
+    "score_diff": 6.112903000000001
+  },
+  "400": {
+    "mean_score": 5.562562403,
+    "stdev_score": 1.83687263664459,
+    "max_score": 14.5707,
+    "min_score": 4.0868,
+    "score_diff": 10.4839
+  },
+  "401": {
+    "mean_score": 4.426178835,
+    "stdev_score": 0.5114538784297609,
+    "max_score": 6.475,
+    "min_score": 3.9136,
+    "score_diff": 2.5613999999999995
+  },
+  "402": {
+    "mean_score": 4.237097476,
+    "stdev_score": 0.7742441225837836,
+    "max_score": 9.0874,
+    "min_score": 3.370795,
+    "score_diff": 5.716605
+  },
+  "403": {
+    "mean_score": 4.997808811764706,
+    "stdev_score": 1.415317716683603,
+    "max_score": 8.1857,
+    "min_score": 1.4498,
+    "score_diff": 6.735900000000001
+  },
+  "404": {
+    "mean_score": 6.045869437,
+    "stdev_score": 0.9008174565247411,
+    "max_score": 8.4261,
+    "min_score": 4.7031,
+    "score_diff": 3.723
+  },
+  "405": {
+    "mean_score": 2.882005925,
+    "stdev_score": 0.9467442666744501,
+    "max_score": 8.8851,
+    "min_score": 2.281196,
+    "score_diff": 6.603904
+  },
+  "406": {
+    "mean_score": 4.270073544,
+    "stdev_score": 1.1922727797231651,
+    "max_score": 10.7226,
+    "min_score": 3.525299,
+    "score_diff": 7.1973009999999995
+  },
+  "407": {
+    "mean_score": 5.065415861,
+    "stdev_score": 1.057420513211464,
+    "max_score": 13.2388,
+    "min_score": 4.152895,
+    "score_diff": 9.085905
+  },
+  "408": {
+    "mean_score": 4.181341683,
+    "stdev_score": 1.1141705125223702,
+    "max_score": 9.6135,
+    "min_score": 3.332999,
+    "score_diff": 6.280501
+  },
+  "409": {
+    "mean_score": 5.194533025,
+    "stdev_score": 1.2076921935832103,
+    "max_score": 11.6837,
+    "min_score": 4.1568,
+    "score_diff": 7.5269
+  },
+  "410": {
+    "mean_score": 2.376192635,
+    "stdev_score": 1.3071841059524631,
+    "max_score": 9.9816,
+    "min_score": 1.950792,
+    "score_diff": 8.030808
+  },
+  "411": {
+    "mean_score": 3.964254619,
+    "stdev_score": 0.8772177756043148,
+    "max_score": 11.6873,
+    "min_score": 3.233597,
+    "score_diff": 8.453703
+  },
+  "412": {
+    "mean_score": 3.967658473,
+    "stdev_score": 0.40312209637549945,
+    "max_score": 5.2045,
+    "min_score": 3.4739,
+    "score_diff": 1.7306000000000004
+  },
+  "413": {
+    "mean_score": 4.702723763,
+    "stdev_score": 0.2798108451907202,
+    "max_score": 5.4777,
+    "min_score": 4.272999,
+    "score_diff": 1.2047009999999991
+  },
+  "414": {
+    "mean_score": 5.910542917,
+    "stdev_score": 1.3864909445377613,
+    "max_score": 11.4695,
+    "min_score": 4.522597,
+    "score_diff": 6.946903
+  },
+  "415": {
+    "mean_score": 4.783433832,
+    "stdev_score": 1.5927416799229892,
+    "max_score": 11.623,
+    "min_score": 3.551697,
+    "score_diff": 8.071303
+  },
+  "416": {
+    "mean_score": 4.098898184,
+    "stdev_score": 1.591873291860172,
+    "max_score": 10.1463,
+    "min_score": 2.966599,
+    "score_diff": 7.179701
+  },
+  "417": {
+    "mean_score": 3.089224969,
+    "stdev_score": 0.36464619409453003,
+    "max_score": 4.486,
+    "min_score": 2.709664,
+    "score_diff": 1.7763359999999997
+  },
+  "418": {
+    "mean_score": 2.922792652,
+    "stdev_score": 0.7836110088124087,
+    "max_score": 7.313,
+    "min_score": 2.472898,
+    "score_diff": 4.840102
+  },
+  "419": {
+    "mean_score": 4.745626915,
+    "stdev_score": 0.8846958921738944,
+    "max_score": 12.1001,
+    "min_score": 3.993099,
+    "score_diff": 8.107001
+  },
+  "420": {
+    "mean_score": 6.085942933,
+    "stdev_score": 1.7784262408462856,
+    "max_score": 15.4431,
+    "min_score": 4.215999,
+    "score_diff": 11.227101
+  },
+  "421": {
+    "mean_score": 6.483509143,
+    "stdev_score": 0.6199482723970465,
+    "max_score": 8.2609,
+    "min_score": 5.6376,
+    "score_diff": 2.6232999999999995
+  },
+  "422": {
+    "mean_score": 4.445497986,
+    "stdev_score": 0.812999833995175,
+    "max_score": 8.6518,
+    "min_score": 3.549892,
+    "score_diff": 5.101908
+  },
+  "423": {
+    "mean_score": 4.555942537,
+    "stdev_score": 1.5597038072595748,
+    "max_score": 15.5736,
+    "min_score": 3.226189,
+    "score_diff": 12.347411000000001
+  },
+  "424": {
+    "mean_score": 3.485680929,
+    "stdev_score": 0.4794453811212957,
+    "max_score": 5.0354,
+    "min_score": 2.939864,
+    "score_diff": 2.095536
+  },
+  "425": {
+    "mean_score": 3.402456686,
+    "stdev_score": 1.502430032331377,
+    "max_score": 8.3194,
+    "min_score": 2.010482,
+    "score_diff": 6.308918
+  },
+  "426": {
+    "mean_score": 4.86012215,
+    "stdev_score": 0.6267655148250895,
+    "max_score": 8.9852,
+    "min_score": 4.349799,
+    "score_diff": 4.635401000000001
+  },
+  "427": {
+    "mean_score": 3.713855072,
+    "stdev_score": 1.1200083704179917,
+    "max_score": 12.7515,
+    "min_score": 2.9101,
+    "score_diff": 9.8414
+  },
+  "428": {
+    "mean_score": 4.542505959,
+    "stdev_score": 0.8531066601853569,
+    "max_score": 8.452,
+    "min_score": 3.783599,
+    "score_diff": 4.668400999999999
+  },
+  "429": {
+    "mean_score": 3.933949294,
+    "stdev_score": 1.1118717862682508,
+    "max_score": 11.9298,
+    "min_score": 3.425498,
+    "score_diff": 8.504302
+  },
+  "430": {
+    "mean_score": 4.537535465,
+    "stdev_score": 1.114018610962073,
+    "max_score": 13.4102,
+    "min_score": 3.455592,
+    "score_diff": 9.954608
+  },
+  "431": {
+    "mean_score": 4.009507792,
+    "stdev_score": 1.507513200416658,
+    "max_score": 8.837,
+    "min_score": 2.5931,
+    "score_diff": 6.2439
+  },
+  "432": {
+    "mean_score": 4.794763205,
+    "stdev_score": 0.7952449394810842,
+    "max_score": 7.4127,
+    "min_score": 3.76329,
+    "score_diff": 3.64941
+  },
+  "433": {
+    "mean_score": 4.267110977,
+    "stdev_score": 0.4518071799664916,
+    "max_score": 8.1609,
+    "min_score": 3.90929,
+    "score_diff": 4.2516099999999994
+  },
+  "434": {
+    "mean_score": 4.805902308,
+    "stdev_score": 0.6096102805215777,
+    "max_score": 7.1181,
+    "min_score": 4.042897,
+    "score_diff": 3.075203
+  },
+  "435": {
+    "mean_score": 4.769661014,
+    "stdev_score": 0.6228729202678559,
+    "max_score": 8.0985,
+    "min_score": 4.172195,
+    "score_diff": 3.9263049999999993
+  },
+  "436": {
+    "mean_score": 4.001055847,
+    "stdev_score": 0.6280487240974302,
+    "max_score": 7.9705,
+    "min_score": 3.558393,
+    "score_diff": 4.412107000000001
+  },
+  "437": {
+    "mean_score": 5.558251597,
+    "stdev_score": 0.7469799517558378,
+    "max_score": 9.2503,
+    "min_score": 4.8892,
+    "score_diff": 4.3610999999999995
+  },
+  "438": {
+    "mean_score": 4.227104382,
+    "stdev_score": 0.5226762987719684,
+    "max_score": 5.9348,
+    "min_score": 3.601995,
+    "score_diff": 2.332805
+  },
+  "439": {
+    "mean_score": 4.671047906,
+    "stdev_score": 0.9911159787868743,
+    "max_score": 9.6017,
+    "min_score": 3.652491,
+    "score_diff": 5.949209
+  },
+  "440": {
+    "mean_score": 3.96110603,
+    "stdev_score": 0.7078267266533271,
+    "max_score": 6.9722,
+    "min_score": 3.3859,
+    "score_diff": 3.5863
+  },
+  "441": {
+    "mean_score": 3.88383012,
+    "stdev_score": 0.941304026523408,
+    "max_score": 11.7882,
+    "min_score": 3.4274,
+    "score_diff": 8.3608
+  },
+  "442": {
+    "mean_score": 3.508210654,
+    "stdev_score": 0.5572108883958435,
+    "max_score": 5.8621,
+    "min_score": 2.833674,
+    "score_diff": 3.028426
+  },
+  "443": {
+    "mean_score": 4.576333209,
+    "stdev_score": 0.4974631177672572,
+    "max_score": 7.0358,
+    "min_score": 3.9955,
+    "score_diff": 3.0403000000000002
+  },
+  "444": {
+    "mean_score": 3.603762991,
+    "stdev_score": 1.003329196867291,
+    "max_score": 13.8787,
+    "min_score": 2.777287,
+    "score_diff": 11.101413
+  },
+  "445": {
+    "mean_score": 3.582681001,
+    "stdev_score": 1.0309702372398204,
+    "max_score": 8.8922,
+    "min_score": 2.912895,
+    "score_diff": 5.979305000000001
+  },
+  "446": {
+    "mean_score": 4.002413296,
+    "stdev_score": 0.7252569991085493,
+    "max_score": 7.3672,
+    "min_score": 3.4029,
+    "score_diff": 3.9643000000000006
+  },
+  "447": {
+    "mean_score": 3.261816113,
+    "stdev_score": 1.0319184451939494,
+    "max_score": 9.2883,
+    "min_score": 2.627899,
+    "score_diff": 6.660400999999999
+  },
+  "448": {
+    "mean_score": 3.918230979,
+    "stdev_score": 0.4580769951142225,
+    "max_score": 5.3948,
+    "min_score": 3.358699,
+    "score_diff": 2.036101
+  },
+  "449": {
+    "mean_score": 3.666376665,
+    "stdev_score": 0.7387577335305872,
+    "max_score": 8.8403,
+    "min_score": 2.937,
+    "score_diff": 5.9033
+  },
+  "450": {
+    "mean_score": 6.110306416,
+    "stdev_score": 1.3511116768849798,
+    "max_score": 10.9606,
+    "min_score": 4.763099,
+    "score_diff": 6.197500999999999
+  },
+  "601": {
+    "mean_score": 6.283618069,
+    "stdev_score": 1.0759696687764246,
+    "max_score": 10.5813,
+    "min_score": 4.7921,
+    "score_diff": 5.789200000000001
+  },
+  "602": {
+    "mean_score": 7.442847357,
+    "stdev_score": 1.2278400370475897,
+    "max_score": 12.1367,
+    "min_score": 5.2615,
+    "score_diff": 6.8751999999999995
+  },
+  "603": {
+    "mean_score": 6.636318835,
+    "stdev_score": 1.6919208833913273,
+    "max_score": 12.7426,
+    "min_score": 4.2394,
+    "score_diff": 8.5032
+  },
+  "604": {
+    "mean_score": 4.426357377,
+    "stdev_score": 1.564360936072051,
+    "max_score": 17.9981,
+    "min_score": 3.523996,
+    "score_diff": 14.474104
+  },
+  "605": {
+    "mean_score": 5.458431306,
+    "stdev_score": 0.4803980186972159,
+    "max_score": 8.6607,
+    "min_score": 4.9876,
+    "score_diff": 3.6731000000000007
+  },
+  "606": {
+    "mean_score": 4.082698755,
+    "stdev_score": 0.76862449614276,
+    "max_score": 11.4467,
+    "min_score": 3.391996,
+    "score_diff": 8.054704000000001
+  },
+  "607": {
+    "mean_score": 5.314050921,
+    "stdev_score": 1.1761950743757077,
+    "max_score": 10.429,
+    "min_score": 4.0363,
+    "score_diff": 6.3927000000000005
+  },
+  "608": {
+    "mean_score": 4.911996431,
+    "stdev_score": 0.4135341888235254,
+    "max_score": 6.3454,
+    "min_score": 4.410299,
+    "score_diff": 1.9351009999999995
+  },
+  "609": {
+    "mean_score": 6.01604573,
+    "stdev_score": 1.0993473630647879,
+    "max_score": 12.8469,
+    "min_score": 4.7684,
+    "score_diff": 8.0785
+  },
+  "610": {
+    "mean_score": 5.833525965,
+    "stdev_score": 0.7275158693877797,
+    "max_score": 10.1354,
+    "min_score": 5.0414,
+    "score_diff": 5.094
+  },
+  "611": {
+    "mean_score": 5.056947254,
+    "stdev_score": 1.2948599892019954,
+    "max_score": 10.8791,
+    "min_score": 3.659,
+    "score_diff": 7.2200999999999995
+  },
+  "612": {
+    "mean_score": 4.180297216,
+    "stdev_score": 1.3547665647372034,
+    "max_score": 9.1645,
+    "min_score": 3.032661,
+    "score_diff": 6.131839
+  },
+  "613": {
+    "mean_score": 5.008695197,
+    "stdev_score": 0.87246345543515,
+    "max_score": 8.9079,
+    "min_score": 4.082,
+    "score_diff": 4.8259
+  },
+  "614": {
+    "mean_score": 3.818012153,
+    "stdev_score": 1.4146593478631957,
+    "max_score": 26.718599,
+    "min_score": 2.720787,
+    "score_diff": 23.997812
+  },
+  "615": {
+    "mean_score": 5.252388832,
+    "stdev_score": 0.8438186983981832,
+    "max_score": 9.6359,
+    "min_score": 4.4918,
+    "score_diff": 5.1441
+  },
+  "616": {
+    "mean_score": 3.971536663,
+    "stdev_score": 0.6597720789430015,
+    "max_score": 7.787,
+    "min_score": 3.4794,
+    "score_diff": 4.3076
+  },
+  "617": {
+    "mean_score": 5.077920555,
+    "stdev_score": 0.6939845876574011,
+    "max_score": 8.7347,
+    "min_score": 4.450099,
+    "score_diff": 4.284601
+  },
+  "618": {
+    "mean_score": 5.361960199,
+    "stdev_score": 3.058811214771405,
+    "max_score": 14.8727,
+    "min_score": 2.7631,
+    "score_diff": 12.1096
+  },
+  "619": {
+    "mean_score": 5.024390812,
+    "stdev_score": 1.5651798630335845,
+    "max_score": 14.4368,
+    "min_score": 3.884889,
+    "score_diff": 10.551911
+  },
+  "620": {
+    "mean_score": 5.636957746,
+    "stdev_score": 0.8417799808682742,
+    "max_score": 8.5423,
+    "min_score": 4.825799,
+    "score_diff": 3.716500999999999
+  },
+  "621": {
+    "mean_score": 5.610766765,
+    "stdev_score": 1.5404730563829443,
+    "max_score": 16.792101,
+    "min_score": 4.3619,
+    "score_diff": 12.430200999999999
+  },
+  "622": {
+    "mean_score": 4.072327201,
+    "stdev_score": 0.28924463885467744,
+    "max_score": 5.0903,
+    "min_score": 3.7078,
+    "score_diff": 1.3824999999999998
+  },
+  "623": {
+    "mean_score": 6.497733787,
+    "stdev_score": 1.0986940179810005,
+    "max_score": 10.8264,
+    "min_score": 5.4111,
+    "score_diff": 5.415299999999999
+  },
+  "624": {
+    "mean_score": 4.249449796,
+    "stdev_score": 1.3952075115001463,
+    "max_score": 13.1542,
+    "min_score": 3.3656,
+    "score_diff": 9.788599999999999
+  },
+  "625": {
+    "mean_score": 4.978219112,
+    "stdev_score": 0.9624487200034003,
+    "max_score": 13.6824,
+    "min_score": 3.718499,
+    "score_diff": 9.963901
+  },
+  "626": {
+    "mean_score": 3.074953411,
+    "stdev_score": 0.6873449306790153,
+    "max_score": 6.7246,
+    "min_score": 2.599398,
+    "score_diff": 4.125202
+  },
+  "627": {
+    "mean_score": 4.745000196,
+    "stdev_score": 0.4818114000023119,
+    "max_score": 7.2666,
+    "min_score": 4.275598,
+    "score_diff": 2.991002000000001
+  },
+  "628": {
+    "mean_score": 6.724946153,
+    "stdev_score": 1.7497185011161258,
+    "max_score": 11.672,
+    "min_score": 4.8249,
+    "score_diff": 6.8471
+  },
+  "629": {
+    "mean_score": 5.679459348,
+    "stdev_score": 1.4423980062804005,
+    "max_score": 10.8976,
+    "min_score": 4.3467,
+    "score_diff": 6.5509
+  },
+  "630": {
+    "mean_score": 5.077198166,
+    "stdev_score": 0.5244625456003565,
+    "max_score": 10.4473,
+    "min_score": 4.5299,
+    "score_diff": 5.917400000000001
+  },
+  "631": {
+    "mean_score": 9.83394304,
+    "stdev_score": 0.8876988181119245,
+    "max_score": 12.1701,
+    "min_score": 8.4128,
+    "score_diff": 3.757299999999999
+  },
+  "632": {
+    "mean_score": 5.813967421,
+    "stdev_score": 0.9339879873476132,
+    "max_score": 10.6111,
+    "min_score": 4.807699,
+    "score_diff": 5.803401
+  },
+  "633": {
+    "mean_score": 4.29793909,
+    "stdev_score": 0.8890443259945192,
+    "max_score": 10.8196,
+    "min_score": 3.3912,
+    "score_diff": 7.4284
+  },
+  "634": {
+    "mean_score": 3.686066076,
+    "stdev_score": 1.2706996867128593,
+    "max_score": 14.3637,
+    "min_score": 3.001696,
+    "score_diff": 11.362003999999999
+  },
+  "635": {
+    "mean_score": 4.465918296,
+    "stdev_score": 0.889597590667882,
+    "max_score": 10.3622,
+    "min_score": 3.693996,
+    "score_diff": 6.668203999999999
+  },
+  "636": {
+    "mean_score": 4.813100617,
+    "stdev_score": 0.6654882619608162,
+    "max_score": 10.7449,
+    "min_score": 4.070494,
+    "score_diff": 6.674405999999999
+  },
+  "637": {
+    "mean_score": 4.455233286,
+    "stdev_score": 1.546981171031754,
+    "max_score": 17.702299,
+    "min_score": 3.292496,
+    "score_diff": 14.409803
+  },
+  "638": {
+    "mean_score": 3.776696476,
+    "stdev_score": 0.555147742953605,
+    "max_score": 5.974,
+    "min_score": 3.2354,
+    "score_diff": 2.7386000000000004
+  },
+  "639": {
+    "mean_score": 4.763825504,
+    "stdev_score": 0.5694611245288054,
+    "max_score": 7.734,
+    "min_score": 4.1302,
+    "score_diff": 3.6037999999999997
+  },
+  "640": {
+    "mean_score": 4.027506993,
+    "stdev_score": 1.1381572807727616,
+    "max_score": 9.5473,
+    "min_score": 3.073096,
+    "score_diff": 6.474204
+  },
+  "641": {
+    "mean_score": 5.963295173,
+    "stdev_score": 1.4097690636117128,
+    "max_score": 14.1794,
+    "min_score": 4.6156,
+    "score_diff": 9.5638
+  },
+  "642": {
+    "mean_score": 5.30826786,
+    "stdev_score": 1.4728003715207598,
+    "max_score": 11.9473,
+    "min_score": 3.678196,
+    "score_diff": 8.269104
+  },
+  "643": {
+    "mean_score": 5.933838707,
+    "stdev_score": 1.4600485678912818,
+    "max_score": 13.9558,
+    "min_score": 4.665496,
+    "score_diff": 9.290303999999999
+  },
+  "644": {
+    "mean_score": 4.777636361,
+    "stdev_score": 1.0087477857307978,
+    "max_score": 10.0714,
+    "min_score": 3.8369,
+    "score_diff": 6.234500000000001
+  },
+  "645": {
+    "mean_score": 4.511333206,
+    "stdev_score": 1.2820706032293698,
+    "max_score": 11.1332,
+    "min_score": 3.811596,
+    "score_diff": 7.321604000000001
+  },
+  "646": {
+    "mean_score": 4.459473654,
+    "stdev_score": 0.9470976802406716,
+    "max_score": 8.7786,
+    "min_score": 3.7414,
+    "score_diff": 5.0372
+  },
+  "647": {
+    "mean_score": 3.213463504,
+    "stdev_score": 0.8438240844260143,
+    "max_score": 9.2302,
+    "min_score": 2.798785,
+    "score_diff": 6.431414999999999
+  },
+  "648": {
+    "mean_score": 4.307059848,
+    "stdev_score": 0.4450318993272344,
+    "max_score": 6.2931,
+    "min_score": 3.819099,
+    "score_diff": 2.474001
+  },
+  "649": {
+    "mean_score": 3.743253983,
+    "stdev_score": 1.2957225332209543,
+    "max_score": 9.7838,
+    "min_score": 2.959799,
+    "score_diff": 6.824000999999999
+  },
+  "650": {
+    "mean_score": 5.255338763,
+    "stdev_score": 1.037477081021219,
+    "max_score": 10.9937,
+    "min_score": 4.299799,
+    "score_diff": 6.693901
+  },
+  "651": {
+    "mean_score": 5.104565451,
+    "stdev_score": 0.5622437055637526,
+    "max_score": 7.7435,
+    "min_score": 4.4293,
+    "score_diff": 3.3142000000000005
+  },
+  "652": {
+    "mean_score": 4.101703414,
+    "stdev_score": 0.9028856173049501,
+    "max_score": 10.7137,
+    "min_score": 3.253886,
+    "score_diff": 7.459814
+  },
+  "653": {
+    "mean_score": 5.084285358,
+    "stdev_score": 2.3454851162350945,
+    "max_score": 15.6286,
+    "min_score": 3.508099,
+    "score_diff": 12.120501
+  },
+  "654": {
+    "mean_score": 4.697471176,
+    "stdev_score": 0.7226133466838394,
+    "max_score": 8.1832,
+    "min_score": 3.870299,
+    "score_diff": 4.312900999999999
+  },
+  "655": {
+    "mean_score": 4.721397443,
+    "stdev_score": 1.048687927673262,
+    "max_score": 9.8302,
+    "min_score": 3.586197,
+    "score_diff": 6.244002999999999
+  },
+  "656": {
+    "mean_score": 4.600488882,
+    "stdev_score": 1.0307267462458547,
+    "max_score": 9.6195,
+    "min_score": 3.708698,
+    "score_diff": 5.910802
+  },
+  "657": {
+    "mean_score": 4.620538785,
+    "stdev_score": 0.7400829429605373,
+    "max_score": 10.2623,
+    "min_score": 3.822199,
+    "score_diff": 6.440101
+  },
+  "658": {
+    "mean_score": 4.046865541,
+    "stdev_score": 0.7813978796483781,
+    "max_score": 8.8827,
+    "min_score": 3.249099,
+    "score_diff": 5.633601
+  },
+  "659": {
+    "mean_score": 4.920022326,
+    "stdev_score": 0.4892653613287639,
+    "max_score": 9.3826,
+    "min_score": 4.4266,
+    "score_diff": 4.956
+  },
+  "660": {
+    "mean_score": 4.872349146,
+    "stdev_score": 1.3221309025755603,
+    "max_score": 11.4241,
+    "min_score": 3.729094,
+    "score_diff": 7.695005999999999
+  },
+  "661": {
+    "mean_score": 4.071074228,
+    "stdev_score": 0.9223654967274325,
+    "max_score": 12.5412,
+    "min_score": 3.430497,
+    "score_diff": 9.110703
+  },
+  "662": {
+    "mean_score": 2.445116824,
+    "stdev_score": 0.9669076017132081,
+    "max_score": 8.8394,
+    "min_score": 2.071799,
+    "score_diff": 6.767600999999999
+  },
+  "663": {
+    "mean_score": 4.755270072,
+    "stdev_score": 0.8297515030370074,
+    "max_score": 9.7429,
+    "min_score": 3.930597,
+    "score_diff": 5.812303
+  },
+  "664": {
+    "mean_score": 5.485357128,
+    "stdev_score": 0.9362544394464535,
+    "max_score": 9.8583,
+    "min_score": 4.5958,
+    "score_diff": 5.2625
+  },
+  "665": {
+    "mean_score": 5.267140004,
+    "stdev_score": 1.2343586826844646,
+    "max_score": 13.5485,
+    "min_score": 4.028598,
+    "score_diff": 9.519902000000002
+  },
+  "666": {
+    "mean_score": 4.512985883,
+    "stdev_score": 0.8178358148999421,
+    "max_score": 7.8854,
+    "min_score": 3.682496,
+    "score_diff": 4.202904
+  },
+  "667": {
+    "mean_score": 3.960061212,
+    "stdev_score": 0.8992642811549751,
+    "max_score": 11.7151,
+    "min_score": 3.288889,
+    "score_diff": 8.426210999999999
+  },
+  "668": {
+    "mean_score": 4.092522256,
+    "stdev_score": 0.6617660223824962,
+    "max_score": 7.4296,
+    "min_score": 3.608294,
+    "score_diff": 3.821306
+  },
+  "669": {
+    "mean_score": 5.398441326,
+    "stdev_score": 1.0553585625008648,
+    "max_score": 8.1556,
+    "min_score": 3.873598,
+    "score_diff": 4.282002
+  },
+  "670": {
+    "mean_score": 3.970869593,
+    "stdev_score": 0.8105504286723425,
+    "max_score": 7.5333,
+    "min_score": 3.3165,
+    "score_diff": 4.216799999999999
+  },
+  "671": {
+    "mean_score": 4.539798463,
+    "stdev_score": 1.0535504528968709,
+    "max_score": 9.1303,
+    "min_score": 3.4978,
+    "score_diff": 5.6325
+  },
+  "672": {
+    "mean_score": 4.0389438,
+    "stdev_score": 1.0532329202611157,
+    "max_score": 10.677,
+    "min_score": 3.280894,
+    "score_diff": 7.396106
+  },
+  "673": {
+    "mean_score": 5.785933074,
+    "stdev_score": 1.264689513156142,
+    "max_score": 10.9518,
+    "min_score": 4.5996,
+    "score_diff": 6.352200000000001
+  },
+  "674": {
+    "mean_score": 4.122862803,
+    "stdev_score": 0.7554854083028253,
+    "max_score": 9.5296,
+    "min_score": 3.446699,
+    "score_diff": 6.082901
+  },
+  "675": {
+    "mean_score": 5.501762716,
+    "stdev_score": 1.3731950392585948,
+    "max_score": 11.5051,
+    "min_score": 4.243198,
+    "score_diff": 7.261902000000001
+  },
+  "676": {
+    "mean_score": 4.203015684,
+    "stdev_score": 1.552081730578128,
+    "max_score": 11.5311,
+    "min_score": 3.003677,
+    "score_diff": 8.527423
+  },
+  "677": {
+    "mean_score": 4.068707037,
+    "stdev_score": 1.2346173360174983,
+    "max_score": 15.9304,
+    "min_score": 3.2763,
+    "score_diff": 12.6541
+  },
+  "678": {
+    "mean_score": 4.138768892,
+    "stdev_score": 0.6319781675146995,
+    "max_score": 7.5301,
+    "min_score": 3.5084,
+    "score_diff": 4.0217
+  },
+  "679": {
+    "mean_score": 3.794171623,
+    "stdev_score": 0.4057658289874848,
+    "max_score": 6.1855,
+    "min_score": 3.3715,
+    "score_diff": 2.814
+  },
+  "680": {
+    "mean_score": 5.115432626,
+    "stdev_score": 0.9009799793202822,
+    "max_score": 9.1835,
+    "min_score": 4.2043,
+    "score_diff": 4.9792000000000005
+  },
+  "681": {
+    "mean_score": 4.351420647,
+    "stdev_score": 0.6232608880423637,
+    "max_score": 7.4884,
+    "min_score": 3.739199,
+    "score_diff": 3.7492010000000002
+  },
+  "682": {
+    "mean_score": 4.772279592,
+    "stdev_score": 0.8450040316480324,
+    "max_score": 9.9976,
+    "min_score": 4.049198,
+    "score_diff": 5.948402000000001
+  },
+  "683": {
+    "mean_score": 3.902621433,
+    "stdev_score": 0.5570573299068692,
+    "max_score": 8.2714,
+    "min_score": 3.302491,
+    "score_diff": 4.968909
+  },
+  "684": {
+    "mean_score": 3.596657648,
+    "stdev_score": 0.2511295120234602,
+    "max_score": 4.6886,
+    "min_score": 3.3143,
+    "score_diff": 1.3743000000000003
+  },
+  "685": {
+    "mean_score": 4.629640405,
+    "stdev_score": 0.8745112586113784,
+    "max_score": 9.6184,
+    "min_score": 3.700994,
+    "score_diff": 5.917406
+  },
+  "686": {
+    "mean_score": 5.250320071,
+    "stdev_score": 0.8356063404902092,
+    "max_score": 9.5864,
+    "min_score": 4.411592,
+    "score_diff": 5.174808
+  },
+  "687": {
+    "mean_score": 6.516863919,
+    "stdev_score": 0.5583526236406818,
+    "max_score": 8.7427,
+    "min_score": 5.801595,
+    "score_diff": 2.9411049999999994
+  },
+  "688": {
+    "mean_score": 4.946643532,
+    "stdev_score": 0.7996314199206765,
+    "max_score": 9.0079,
+    "min_score": 4.140899,
+    "score_diff": 4.867000999999999
+  },
+  "689": {
+    "mean_score": 4.356349234,
+    "stdev_score": 0.4386139618653452,
+    "max_score": 6.1155,
+    "min_score": 3.861797,
+    "score_diff": 2.253703
+  },
+  "690": {
+    "mean_score": 5.228401185,
+    "stdev_score": 0.4970988108657905,
+    "max_score": 7.832,
+    "min_score": 4.650699,
+    "score_diff": 3.1813009999999995
+  },
+  "691": {
+    "mean_score": 4.8023177200000005,
+    "stdev_score": 0.8277507095053825,
+    "max_score": 8.4772,
+    "min_score": 3.984797,
+    "score_diff": 4.4924029999999995
+  },
+  "692": {
+    "mean_score": 6.260580588,
+    "stdev_score": 1.6081536483776426,
+    "max_score": 15.0199,
+    "min_score": 4.621,
+    "score_diff": 10.3989
+  },
+  "693": {
+    "mean_score": 5.15180202,
+    "stdev_score": 0.6750835200154096,
+    "max_score": 8.0731,
+    "min_score": 4.5144,
+    "score_diff": 3.5587
+  },
+  "694": {
+    "mean_score": 3.532712787,
+    "stdev_score": 1.093603297035383,
+    "max_score": 11.4244,
+    "min_score": 2.821765,
+    "score_diff": 8.602635
+  },
+  "695": {
+    "mean_score": 6.278249603,
+    "stdev_score": 1.072869356313071,
+    "max_score": 12.4589,
+    "min_score": 5.323798,
+    "score_diff": 7.135102
+  },
+  "696": {
+    "mean_score": 4.596313968,
+    "stdev_score": 0.8864313528791262,
+    "max_score": 9.4301,
+    "min_score": 3.797194,
+    "score_diff": 5.632905999999999
+  },
+  "697": {
+    "mean_score": 5.755445252,
+    "stdev_score": 0.6932144311326237,
+    "max_score": 7.8151,
+    "min_score": 4.9034,
+    "score_diff": 2.9116999999999997
+  },
+  "698": {
+    "mean_score": 4.326510913,
+    "stdev_score": 0.8258965579588909,
+    "max_score": 10.4631,
+    "min_score": 3.5714,
+    "score_diff": 6.8917
+  },
+  "699": {
+    "mean_score": 3.225407081,
+    "stdev_score": 0.20340779141870716,
+    "max_score": 4.0182,
+    "min_score": 2.983999,
+    "score_diff": 1.0342010000000004
+  },
+  "700": {
+    "mean_score": 5.150927681,
+    "stdev_score": 0.7007808050211973,
+    "max_score": 8.0782,
+    "min_score": 4.357699,
+    "score_diff": 3.7205010000000005
+  }
+}
